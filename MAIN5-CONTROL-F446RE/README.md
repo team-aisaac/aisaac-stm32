@@ -1,7 +1,7 @@
 # 設定
 
 # pinout
-![be80ccac.png](file:///https://drive.google.com/uc?export&id=1COmp3LC_mYhK3AnJkvjL6nUqSiSohZS3)
+![be80ccac.png](https://drive.google.com/uc?export=view&id=1COmp3LC_mYhK3AnJkvjL6nUqSiSohZS3)
 
 
 
@@ -103,4 +103,4 @@
 - [ ] Class For HS IP -> Communication Device Class (Virtual Port Com) 
 
 ## clock configuration
-![5b331f61.png](file:///home/keita/STM32CubeIDE/stm32_workspace_github/00Boostnote/attachments/a8826606-b0cd-41d0-a32c-ea6ab950573b/5b331f61.png)
+![5b331f61.png](https://drive.google.com/uc?export=view&id=1lcyK01t2vVOsseJb8v_Xa4q9yF0CjUaA)
