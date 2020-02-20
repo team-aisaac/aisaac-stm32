@@ -1,7 +1,7 @@
 # 設定
 
 # pinout
-![be80ccac.png](:storage\a8826606-b0cd-41d0-a32c-ea6ab950573b\be80ccac.png)
+![be80ccac.png](file:///home/keita/STM32CubeIDE/stm32_workspace_github/00Boostnote/attachments/a8826606-b0cd-41d0-a32c-ea6ab950573b/be80ccac.png)
 ## SYSTEM CORE
 ### GPIO
 **PA0 & PA1 -> ENCODER(gpio or tim2 encoder mode)**
@@ -99,4 +99,4 @@
 - [ ] Class For HS IP -> Communication Device Class (Virtual Port Com) 
 
 ## clock configuration
-![5b331f61.png](:storage\a8826606-b0cd-41d0-a32c-ea6ab950573b\5b331f61.png)
+![5b331f61.png](file:///home/keita/STM32CubeIDE/stm32_workspace_github/00Boostnote/attachments/a8826606-b0cd-41d0-a32c-ea6ab950573b/5b331f61.png)
