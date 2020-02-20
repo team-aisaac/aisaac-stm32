@@ -1,10 +1,14 @@
 # 設定
 
 # pinout
-![be80ccac.png](file:///home/keita/STM32CubeIDE/stm32_workspace_github/00Boostnote/attachments/a8826606-b0cd-41d0-a32c-ea6ab950573b/be80ccac.png)
+![be80ccac.png](file:///https://drive.google.com/uc?export&id=1COmp3LC_mYhK3AnJkvjL6nUqSiSohZS3)
+
+
+
 ## SYSTEM CORE
 ### GPIO
 **PA0 & PA1 -> ENCODER(gpio or tim2 encoder mode)**
+
 - [ ] External Interrupt Mode with Riging/Falling edge trigger detection
 - [ ] Pull-up
 
