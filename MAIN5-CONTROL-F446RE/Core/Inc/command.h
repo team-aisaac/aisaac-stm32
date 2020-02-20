@@ -46,7 +46,7 @@ typedef struct  {
 } ENCODER;
 
 void EncoderStart(ENCODER* DataStruct,float,float,float,float);
-void EncoderGetCount(ENCODER* DataStruct,uint16_t GPIO_Pin,GPIO_TypeDef* GPIOx_A,uint16_t GPIO_Pin_A,GPIO_TypeDef* GPIOx_B,uint16_t GPIO_Pin_B);
+void EncoderGetCount(ENCODER* DataStruct,uint16_t,GPIO_TypeDef*,uint16_t,GPIO_TypeDef*,uint16_t);
 void EncoderGetAnglerVelocity(ENCODER* DataStruct);
 void EncoderGetRPM(ENCODER* DataStruct);
 /* CODE END ENCODER*/
