@@ -1,7 +1,7 @@
 # 設定
 
 # pinout
-![be80ccac.png](https://drive.google.com/uc?export=view&id=1COmp3LC_mYhK3AnJkvjL6nUqSiSohZS3)
+![be80ccac.png](https://user-images.githubusercontent.com/32444109/74931823-c7bf1a00-5423-11ea-8ae2-348cf3c26598.png)
 
 
 
@@ -103,4 +103,4 @@
 - [ ] Class For HS IP -> Communication Device Class (Virtual Port Com) 
 
 ## clock configuration
-![5b331f61.png](https://drive.google.com/uc?export=view&id=1lcyK01t2vVOsseJb8v_Xa4q9yF0CjUaA)
+![5b331f61.png](https://user-images.githubusercontent.com/32444109/74931974-21274900-5424-11ea-8e98-768ef812cf35.png)
