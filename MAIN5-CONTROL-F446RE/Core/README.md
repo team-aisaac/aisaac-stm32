@@ -1,5 +1,6 @@
 # LED
 GPIO_TypeDef* GPIOx->ピン名 ex)GPIOA
+
 uint16_t GPIO_Pin->ピン番号 ex)GPIO_PIN_0
 
 ```c
@@ -10,15 +11,23 @@ void LED_TOGGLE(GPIO_TypeDef* GPIOx,uint16_t GPIO_Pin);
 
 # ENCODER
 ENCODER* DataStruct -> 構造体
+
 float Resolution -> エンコーダ分解能
+
 float GearRatio -> ギア比
+
 float Diameter -> タイヤ直径
+
 float dt -> 割り込み時間
 
 uint16_t GPIO_Pin -> 割り込みが発生したピン
+
 GPIO_TypeDef* GPIOx_A -> A相ピン名
+
 uint16_t GPIO_Pin_A -> A相ピン番号
+
 GPIO_TypeDef* GPIOx_B -> B相ピン名
+
 uint16_t GPIO_Pin_B -> B相ピン番号
 
 ## 構造体
